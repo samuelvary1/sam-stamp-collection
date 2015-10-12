@@ -1,7 +1,7 @@
 Sam's Stamp Collection App
 ---
 
-= About
+= About Sam
 
 Stuff about Sam's Stamps here...
 
