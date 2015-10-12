@@ -3,5 +3,5 @@ Sam's Stamp Collection App
 
 = About Sam
 
-Stuff about Sam's Stamps here...
+New York Times raves this is the best stamp collection of the ages!
 
