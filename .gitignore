@@ -1,0 +1,9 @@
+# these are names of files that we do not want git to stage
+
+# hide private keys
+
+# hide mac system files
+
+private-keys.md
+
+.DS_Store
